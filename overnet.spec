@@ -1,8 +1,7 @@
-%define		_ver 48.2
 Summary:	Download file manager (official core)
 Summary(pl):	¦ci±gacz plików (oficjalny)
 Name:		overnet
-Version:	0.%{_ver}
+Version:	0.48.2
 Release:	1
 Epoch:		1
 License:	unknown
