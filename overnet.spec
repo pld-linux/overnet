@@ -7,6 +7,7 @@ Epoch:		1
 License:	unknown
 Group:		Applications/Communications
 Source0:	http://www.overnet.com/files/%{name}%{version}.tar.gz
+# Source0-md5:	df0db434eedaf2f2a6e66ce35f1be5e6
 Source1:	%{name}.sh
 URL:		http://www.overnet.com/
 Provides:	eDonkey-core
