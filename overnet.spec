@@ -1,13 +1,13 @@
 Summary:	Download file manager (official core)
 Summary(pl):	¦ci±gacz plików (oficjalny)
 Name:		overnet
-Version:	0.49.4
+Version:	0.50
 Release:	1
 Epoch:		1
 License:	unknown
 Group:		Applications/Communications
 Source0:	http://www.overnet.com/files/%{name}%{version}.tar.gz
-# Source0-md5:	bd0074a86bf18accc29b7f58106a562f
+# Source0-md5:	4d9af43009df7ece9a9de258ad710ff0
 Source1:	%{name}.sh
 URL:		http://www.overnet.com/
 Provides:	eDonkey-core
