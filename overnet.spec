@@ -1,4 +1,4 @@
-%define		_ver  46
+%define		_ver 48.2
 Summary:	Download file manager (official core)
 Summary(pl):	¦ci±gacz plików (oficjalny)
 Name:		overnet
@@ -30,9 +30,9 @@ Jest podobny do eDonkey2000 lecz nie u¿ywa serwerów.
 rm -rf $RPM_BUILD_ROOT
 install -d $RPM_BUILD_ROOT%{_bindir}
 
-install overnet_s_%{_ver} $RPM_BUILD_ROOT%{_bindir}/overnet_s_v%{_ver}
+install overnet%{version} $RPM_BUILD_ROOT%{_bindir}/overnet_v%{version}
 
-ln -s %{_bindir}/overnet_s_v%{_ver} $RPM_BUILD_ROOT%{_bindir}/overnet
+ln -s %{_bindir}/overnet_v%{version} $RPM_BUILD_ROOT%{_bindir}/overnet
 
 install %{SOURCE1} $RPM_BUILD_ROOT%{_bindir}/overnet-conf
 
