@@ -1,4 +1,4 @@
-%define		_ver  45
+%define		_ver  46
 Summary:	Download file manager (official core)
 Summary(pl):	¦ci±gacz plików (oficjalny)
 Name:		overnet
