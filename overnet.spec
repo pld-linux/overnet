@@ -1,6 +1,6 @@
 %define		_ver  44
 Summary:	Download file manager (official core)
-Summary(pl):	¦ci±gacz plików (oficialny)
+Summary(pl):	¦ci±gacz plików (oficjalny)
 Name:		overnet
 Version:	0.%{_ver}
 Release:	1
@@ -16,7 +16,7 @@ ExclusiveArch:	%{ix86}
 
 %description
 Download file manager hosted by http://www.overnet.com/
-Overnet is the serverless successor of eDonkey2000, 
+Overnet is the serverless successor of eDonkey2000,
 and both programs are very similar in many respects.
 
 %description -l pl
