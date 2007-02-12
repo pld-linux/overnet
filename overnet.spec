@@ -1,5 +1,5 @@
 Summary:	Download file manager (official core)
-Summary(pl):	¦ci±gacz plików (oficjalny)
+Summary(pl.UTF-8):   ÅšciÄ…gacz plikÃ³w (oficjalny)
 Name:		overnet
 Version:	0.51.2
 Release:	1
@@ -19,9 +19,9 @@ Download file manager hosted by http://www.overnet.com/
 Overnet is the serverless successor of eDonkey2000,
 and both programs are very similar in many respects.
 
-%description -l pl
-¦ci±gacz plików z http://www.overnet.com/
-Jest podobny do eDonkey2000 lecz nie u¿ywa serwerów.
+%description -l pl.UTF-8
+ÅšciÄ…gacz plikÃ³w z http://www.overnet.com/
+Jest podobny do eDonkey2000 lecz nie uÅ¼ywa serwerÃ³w.
 
 %prep
 %setup -q -c
