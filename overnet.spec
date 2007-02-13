@@ -1,5 +1,5 @@
 Summary:	Download file manager (official core)
-Summary(pl.UTF-8):   Ściągacz plików (oficjalny)
+Summary(pl.UTF-8):	Ściągacz plików (oficjalny)
 Name:		overnet
 Version:	0.51.2
 Release:	1
